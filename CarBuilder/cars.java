@@ -38,7 +38,7 @@ public class cars {
     public void setVehicletype(String vehicletype) {
         this.vehicletype = vehicletype;
     }
-
+//printing general format 
     @Override
     public String toString() {
         return "Car Info: [Year = " + year + ", color = " + color + ", vehicletype = " + vehicletype + ", fueltype = "
