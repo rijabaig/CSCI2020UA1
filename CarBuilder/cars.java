@@ -1,6 +1,6 @@
 package csci2020;
 
-//product class
+//product class which contains fields with setter methods
 public class cars {
     private int year;
     private String color;
