@@ -1,6 +1,6 @@
 package csci2020;
 
-//concrete builder
+//concrete builder which provides implementation
 public class CarBuilderConc implements carbuilder {
 
     private cars car;
