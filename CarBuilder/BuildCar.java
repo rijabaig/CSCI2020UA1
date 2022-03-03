@@ -9,7 +9,7 @@ public class BuildCar {
         final Director carDirector = new Director(builder);
         System.out.println("Here are the different cars: ");
         System.out.println(" ");
-
+//calling different car types
         System.out.println(carDirector.constructSUV());
         System.out.println(" ");
         System.out.println(carDirector.constructCoupe());
