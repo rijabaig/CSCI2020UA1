@@ -7,7 +7,7 @@ public class Director {
     public Director(final carbuilder builder) {
         this.builder = builder;
     }
-
+// here we are setting different types of cars with specific functionalities
     public cars constructSUV() {
         return builder.setVehicletype("SUV")
                 .setColor("Red")
